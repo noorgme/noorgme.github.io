@@ -74,7 +74,7 @@ const Contact = () => {
       >
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
-        <p className="text-xs">
+        <p className="text-m">
   If you would like to get in touch, please contact me at{" "}
   <a
     href="mailto:noor.elsheikh21@imperial.ac.uk"

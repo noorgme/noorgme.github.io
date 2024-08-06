@@ -45,7 +45,7 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[12px] max-w-3xl leading-[18px]'
+        className='mt-4 text-secondary text-[16px] max-w-5xl leading-[18px]'
       >
         As an entrepreneurially-driven final-year MEng student at Imperial College London, I’ve had the privilege of developing a large wealth of both leadership and technical experience, as well as a track record of ambitious projects. I pursue mental stimulation through software development, discretionary trading and investing (+600% since Q4 2023), and Chess.
  <br/><br/>

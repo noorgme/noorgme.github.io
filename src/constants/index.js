@@ -131,7 +131,7 @@ const experiences = [
     company_name: "HSBC",
     icon: HSBC,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Jun. 2024 - Present",
     points: [
       "Collaborated in an Agile team to develop and deploy full-stack .NET/C# applications using MVC architecture, meeting and surpassing stakeholder requirements for the Chief Technology Office.",
       "Optimising expensive database operations from O(n²) to O(1) complexity, significantly enhancing system performance for 9000 internal users.",
@@ -143,7 +143,7 @@ const experiences = [
     company_name: "ImperialDAO",
     icon: ImperialDAO,
     iconBg: "#0c122a",
-    date: "Jan 2021 - Feb 2022",
+    date: "Feb. 2024 - Present",
     points: [
           "Built a dynamic team of 50 talented Imperial staff, students, and alumni, including researchers and senior quantitative analysts, fostering a diverse, environment of ambition, innovation and collaboration.",
           "Managing a $150,000 trading fund for a venture capital firm's treasury, developing detailed investment theses and executing strategic trades that demonstrated financial acumen and leadership in asset management.",
@@ -157,7 +157,7 @@ const experiences = [
     company_name: "AI Forge",
     icon: aiforge,
     iconBg: "black",
-    date: "Jan 2021 - Feb 2022",
+    date: "Aug. 2023 - Nov. 2023",
     points: [
       "In 3 days, I developed an integer linear programming algorithm and a full-stack web application interface for use by 200 concurrent clients at a high-stake business event. Re-used at 4 further events, streamlining their operations significantly and improving the company's reputation as an innovation hub.",
       "Worked with an NHS Doctor to build an AI-driven patient-doctor consultation product, measured to reduce appointment durations by 70% and reduce public health service waiting lists.",
@@ -170,7 +170,7 @@ const experiences = [
     company_name: "Imperial Blockchain Society",
     icon: IBG,
     iconBg: "black",
-    date: "Jan 2021 - Feb 2022",
+    date: "Sep. 2023 - Present",
     points: [
       "Organised and delivered lectures on Python & Quantitative Trading, attracting 60 regular attendees and securing sponsorship from the Imperial Business School. This initiative strengthened the society's academic reputation and financial support.",
       "Co-organised the Global Blockchain and FinTech Conference at Imperial College, curating a high-profile speaker list that included senior executives and CEOs from elite financial institutions. The event drew over 700 attendees, including prominent figures such as Lord Holmes, MBE.",
@@ -184,7 +184,7 @@ const experiences = [
     company_name: "ReadyTraderOne",
     icon: readytraderone,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "May. 2024 - Present",
     points: [
       "Delivering order book simulations on asset classes including cryptocurrencies, FX, Fixed Income and commodities following comprehensive courses on Quantitative Trading.",
       "Part of a team of 4 junior engineers, 2 senior engineers, 2 business development associates, 1 secretary and 2 external advisors."
@@ -196,7 +196,7 @@ const experiences = [
     company_name: "Napa Society",
     icon: napa,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "May. 2023 - Jun. 2023",
     points: [
       "Developed a cloud-based user-upload pipeline in Node.js for a social media platform, leveraging AWS S3 for secure storage, AWS Lambda for automated processing, and AWS Rekognition for AI-driven real-time content analysis, enhancing platform reliability and user safety.",
       "Transformed the media delivery system from synchronous HTTP to asynchronous WebSocket streaming via AWS API Gateway to enable real-time streaming of video posts, reducing media load times significantly."
@@ -207,30 +207,7 @@ const experiences = [
 ];
 
 const testimonials = [
-  {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
+  
 ];
 
 const projects = [

@@ -47,13 +47,13 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[16px] max-w-5xl leading-[18px]'
       >
-        As an entrepreneurially-driven final-year MEng student at Imperial College London, I’ve had the privilege of developing a large wealth of both leadership and technical experience, as well as a track record of ambitious projects. I pursue mental stimulation through software development, discretionary trading and investing (+600% since Q4 2023), and Chess.
- <br/><br/>
-As President of the 600-large Imperial Blockchain Society, I spearhead extensive industrial partnerships with Tier 1 financial Institutions and engineering companies, organise and run frequent major events and educational programs, lead a dedicated committee, and host educational lectures. 
-<br/><br/>
-I founded ImperialDAO, an organisation of 50 talented Imperial Staff/Students/Alumni now engaging in FinTech product development, venture capital, and market-trading fund management.
-<br/><br/>
-While at university, my work experience at HSBC, an AI Start-Up accelerator, and Napa Society, have afforded me a strong professional network and valuable insights into professional software development, the startup and venture capital ecosystem, and the Web3 industry.
+          As an entrepreneurially-driven final-year MEng student at Imperial College London, I’ve had the privilege of developing a large wealth of both leadership and technical experience, as well as a track record of ambitious projects. I pursue mental stimulation through software development, discretionary trading and investing (+600% since Q4 2023), and Chess.
+  <br/><br/>
+  As President of the 600-large Imperial Blockchain Society, I spearhead extensive industrial partnerships with Tier 1 financial Institutions and engineering companies, organise and run frequent major events and educational programs, lead a dedicated committee, and host educational lectures. 
+  <br/><br/>
+  I founded ImperialDAO, an organisation of 50 talented Imperial Staff/Students/Alumni now engaging in FinTech product development, venture capital, and market-trading fund management.
+  <br/><br/>
+  While at university, my work experience at HSBC, an AI Start-Up accelerator, and Napa Society, have afforded me a strong professional network and valuable insights into professional software development, the startup and venture capital ecosystem, and the Web3 industry.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

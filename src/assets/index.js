@@ -7,19 +7,23 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.png";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
-import git from "./tech/git.png";
-import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import Css from "./tech/Css.png";
+import Docker from "./tech/Docker.png";
+import Aws from "./tech/AWS.png";
+import Cpp from "./tech/C++.png";
+import Eth from "./tech/Eth.png";
+import Git from "./tech/Git.png";
+import Html from "./tech/Html.png";
+import Keras from "./tech/Keras.png";
+import Linux from "./tech/Linux.webp";
+import Php from "./tech/Php.png";
+import Python from "./tech/Python.png";
+import Riscv from "./tech/Riscv.png";
+import Solidity from "./tech/Solidity.svg";
+import Sql from "./tech/SQL.png";
+import Sv from "./tech/SV.svg";
+import Tensorflow from "./tech/Tensorflow.svg";
+
 
 import readytraderone from "./company/readytraderone.png";
 import napa from "./company/napa.png";
@@ -38,6 +42,7 @@ import fhe from "./projects/FHE_Preview.png";
 import cw1 from "./projects/DL/cw1.png";
 import colourisation from "./projects/DL/colourisation.png";
 import textual from "./projects/DL/textual.png";
+import TradingAlgo from "./projects/TradingAlgo/graph.png";
 
 
 export {
@@ -46,22 +51,11 @@ export {
   creator,
   mobile,
   web,
+  TradingAlgo,
   github,
   menu,
   close,
-  css,
-  docker,
-  figma,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
+
   readytraderone,
   ImperialDAO,
   IBG,
@@ -78,5 +72,21 @@ export {
   fhe,
   cw1,
   colourisation,
-  textual
+  textual,
+  Aws,
+  Cpp,
+  Css, 
+  Docker,
+  Eth,
+  Git,
+  Html,
+  Keras,
+  Linux,
+  Php,
+  Python,
+  Riscv,
+  Solidity,
+  Sql,
+  Sv,
+  Tensorflow
 };

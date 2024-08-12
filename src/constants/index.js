@@ -1,20 +1,5 @@
 import {
-  mobile,
-  backend,
-  creator,
-  web,
-  javascript,
-  typescript,
-  html,
-  css,
-  reactjs,
-  redux,
-  tailwind,
-  nodejs,
-  mongodb,
-  git,
-  figma,
-  docker,
+
   readytraderone,
   HSBC,
   aiforge,
@@ -25,14 +10,31 @@ import {
   rover,
   irrigo,
   cpu,
-  threejs,
   tradingbot,
+  TradingAlgo,
   game,
   compiler,
   fhe,
   cw1,
   colourisation,
-  textual
+  textual,
+  Aws,
+  Cpp,
+  Css,
+  Docker,
+  Eth,
+  Git,
+  Html,
+  Keras,
+  Linux,
+  Php,
+  Python,
+  Riscv,
+  Solidity,
+  Sql,
+  Sv,
+  Tensorflow,
+
 } from "../assets";
 import { textVariant } from "../utils/motion";
 
@@ -72,56 +74,68 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "C++",
+    icon: Cpp,
   },
   {
-    name: "CSS 3",
-    icon: css,
+    name: "Python",
+    icon: Python,
   },
   {
-    name: "JavaScript",
-    icon: javascript,
+    name: "Linux",
+    icon: Linux,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "AWS",
+    icon: Aws,
+  },
+
+  {
+    name: "CSS",
+    icon: Css,
   },
   {
-    name: "React JS",
-    icon: reactjs,
+    name: "Docker",
+    icon: Docker,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Ethereum",
+    icon: Eth,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Git",
+    icon: Git,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "HTML",
+    icon: Html,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Keras",
+    icon: Keras,
+  },
+
+  // {
+  //   name: "PHP",
+  //   icon: Php,
+  // },
+  
+  {
+    name: "RISC-V",
+    icon: Riscv,
+  },
+
+  {
+    name: "SQL",
+    icon: Sql,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "SystemVerilog",
+    icon: Sv,
   },
   {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
+    name: "TensorFlow",
+    icon: Tensorflow,
   },
 ];
 
@@ -229,6 +243,26 @@ const projects = [
       },
     ],
     image: compiler,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Algorithmic Buy Opportunity Detection",
+    description: "Invented an algorithm for a niche decentralised Cryptocurrency market, with 95% precision in identifying profitable buy opportunities, utilising web scraping, advanced feature engineering and a combination of Gradient Boosting, Random Forest, LSTM machine learning",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Tensorflow",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Keras",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: TradingAlgo,
     source_code_link: "https://github.com/",
   },
   {

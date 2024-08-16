@@ -133,10 +133,10 @@ const technologies = [
     name: "SystemVerilog",
     icon: Sv,
   },
-  {
-    name: "TensorFlow",
-    icon: Tensorflow,
-  },
+  // {
+  //   name: "TensorFlow",
+  //   icon: Tensorflow,
+  // },
 ];
 
 const experiences = [
